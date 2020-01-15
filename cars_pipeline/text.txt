@@ -1,0 +1,8 @@
+Data Processed
+Date is:  Wed 15 Jan 20:38:14 GMT 2020
+
+The name of the file is: speed.csv
+
+The file has 614 lines
+Column names are: 
+CNN,the_geom,SpeedLimit,STREETNAME,Over_pct,O5mph_pct,Speed_avg,SpeedO_avg,Spd5O_avg
